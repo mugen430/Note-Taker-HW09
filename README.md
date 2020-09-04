@@ -1,6 +1,8 @@
 # Note-Taker-HW09 
 link to deployed app 
 
+https://note-taker-mugen430.herokuapp.com/
+
 ## Description
 Note Taker is an application that utilizes Express backend to store, delete and retrieve data.
 Samples are shown as below

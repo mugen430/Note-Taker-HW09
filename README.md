@@ -7,10 +7,10 @@ Samples are shown as below
 
 ## Homework Images
 
-![Main Page]()
-![Note Title w/ content ready to be saved]()
-![Saved Note Title]()
-![API/Notes]()
+<img src="public/images/main.jpg" alt="Main Page">
+<img src="public/images/notetitle.jpg" alt="User input into Title and body section">
+<img src="public/images/saved.jpg" alt="Saved and deleted">
+<img src="public/images/apinotes.jpg" alt="API/Notes extension">
 
 ## Business Context
 
